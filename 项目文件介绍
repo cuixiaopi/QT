@@ -1,0 +1,6 @@
+helloworld.pro 项目文件，包含了项目相关信息
+helloworld.pro.user 包含与用户有关的项目信息
+hellodialog.h 头文件，hellodialog类的头文件
+hellodialog.cpp 执行文件，hellodialog类的源文件
+mian.cpp 文件包含了main函数
+hellodialog.ui 设计师设计的界面文件
